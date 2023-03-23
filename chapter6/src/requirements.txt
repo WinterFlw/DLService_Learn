@@ -1,0 +1,6 @@
+fastapi==0.74.1
+streamlit==1.5.1
+uvicorn==0.17.5
+python-multipart==0.0.5
+tensorflow-cpu==2.8.0
+boto3
